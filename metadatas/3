@@ -1,0 +1,8 @@
+{
+  "name": "Earth Trainer",
+  "symbol": "MSB11",
+  "description": "collected 1 nokiamon with earth type",
+  "image": "https://raw.githubusercontent.com/viandwi24/mysol/main/assets/mysolbadges/images/trainer.png",
+  "seller_fee_basis_points": 5,
+  "background_color": "1E1E1E"
+}
