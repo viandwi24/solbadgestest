@@ -1,0 +1,8 @@
+{
+  "name": "New Tamer",
+  "symbol": "MYSOLBADGES",
+  "description": "Collected 1 nokiamon",
+  "image": "https://raw.githubusercontent.com/viandwi24/mysol/main/assets/mysolbadges/images/trainer.png",
+  "seller_fee_basis_points": 5,
+  "background_color": "1E1E1E"
+}
